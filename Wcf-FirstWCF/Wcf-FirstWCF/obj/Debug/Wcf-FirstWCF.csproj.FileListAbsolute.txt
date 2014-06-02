@@ -1,0 +1,4 @@
+D:\CHETAN WORK\Wcf-FirstWCF\Wcf-FirstWCF\bin\Wcf-FirstWCF.dll
+D:\CHETAN WORK\Wcf-FirstWCF\Wcf-FirstWCF\bin\Wcf-FirstWCF.pdb
+D:\CHETAN WORK\Wcf-FirstWCF\Wcf-FirstWCF\obj\Debug\Wcf-FirstWCF.dll
+D:\CHETAN WORK\Wcf-FirstWCF\Wcf-FirstWCF\obj\Debug\Wcf-FirstWCF.pdb

@@ -1,0 +1,5 @@
+D:\CHETAN WORK\Wcf-FirstWCF\WCF-Website\bin\WCF-Website.dll
+D:\CHETAN WORK\Wcf-FirstWCF\WCF-Website\bin\WCF-Website.pdb
+D:\CHETAN WORK\Wcf-FirstWCF\WCF-Website\obj\Debug\WCF-Website.csprojResolveAssemblyReference.cache
+D:\CHETAN WORK\Wcf-FirstWCF\WCF-Website\obj\Debug\WCF-Website.dll
+D:\CHETAN WORK\Wcf-FirstWCF\WCF-Website\obj\Debug\WCF-Website.pdb
