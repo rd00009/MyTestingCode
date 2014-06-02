@@ -13,5 +13,7 @@ namespace Wcf_FirstWCF
     {
         [OperationContract]
         void DoWork();
+        [OperationContract]
+        void GetWork();
     }
 }
