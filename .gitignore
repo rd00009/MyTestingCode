@@ -3,3 +3,4 @@
 Wcf-FirstWCF/WCF-Application/WCF-Application.csproj.user
 *.nupkg
 Wcf-FirstWCF/WCF-Website/bin/WCF-Website.pdb
+*.cache
