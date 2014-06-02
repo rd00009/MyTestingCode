@@ -24,5 +24,11 @@ namespace Wcf_FirstWCF
 
             return true;
         }
+
+
+        public void GetWork()
+        {
+           
+        }
     }
 }
