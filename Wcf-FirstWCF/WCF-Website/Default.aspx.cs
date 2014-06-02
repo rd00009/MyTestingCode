@@ -11,6 +11,8 @@ namespace WCF_Website
 {
     public partial class Default : System.Web.UI.Page
     {
+
+        //that is change for the branch_local. second
         protected void Page_Load(object sender, EventArgs e)
         {
             var ser = new Service1Client();
